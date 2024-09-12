@@ -16,7 +16,6 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=doomL&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A&column=-1&title=MultiLanguage,Commits,Experience,Repositories" alt="Github Trophy" />
 </a>
-<img src="https://github-readme-stats-nu-nine-42.vercel.app/api?username=dooml&show_icons=true&include_all_commits=true&hide=issues"/>
 </div>
 
 <div align="center">
@@ -81,16 +80,5 @@
 
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DoomL&theme=highcontrast&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a></div>
-
-###
-
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/dom_laur">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=11142952651&unique={true|1|on|yes}" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
