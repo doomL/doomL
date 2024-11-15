@@ -79,9 +79,10 @@
 ###
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=DoomL&theme=highcontrast&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DoomL&theme=neon-dark&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
+  
 ###
+
 <img src="https://spotify-recently-played-readme.vercel.app/api?user=11142952651&count=1" alt="Spotify" />
 
 </div>
