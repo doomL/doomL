@@ -79,7 +79,8 @@
 ###
 
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DoomL&theme=neon-dark&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-tau-peach.vercel.app?user=doomL&theme=tokyonight&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&excludeDaysLabel=5C0505&background=45%2C5C0505%2C002A39" alt="GitHub Streak" /></a>
+
   
 ###
 
