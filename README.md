@@ -91,9 +91,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python   9 mins          █████████░░░░░░░░░░░░░░░░   35.64 %
-YAML     9 mins          █████████░░░░░░░░░░░░░░░░   35.63 %
-HTML     7 mins          ███████▒░░░░░░░░░░░░░░░░░   28.73 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
