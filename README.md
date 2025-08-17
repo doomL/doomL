@@ -91,11 +91,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python             51 mins         █████████░░░░░░░░░░░░░░░░   36.20 %
-reStructuredText   40 mins         ███████░░░░░░░░░░░░░░░░░░   28.51 %
-Java               11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 %
-JSON               9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.71 %
-TypeScript         9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
