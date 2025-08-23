@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">I'm a Domenico from Italy<br><br>🔭 I’m working as a full-stack developer.<br>📚 I'm currently learning advanced AI/LLM development and decentralized technologies.<br>⚡ In my free time, I explore new frameworks, contribute to open source, and build innovative apps.</p>
+<p align="left">I'm Domenico from Italy<br><br>🔭 I’m working as a full-stack developer.<br>📚 I'm currently learning advanced AI/LLM development and decentralized technologies.<br>⚡ In my free time, I explore new frameworks, contribute to open source, and build innovative apps.</p>
 
 ###
 
