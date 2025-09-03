@@ -91,11 +91,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Bash               1 hr 59 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.05 %
-Python             1 hr 55 mins    █████░░░░░░░░░░░░░░░░░░░░   20.41 %
-TypeScript         1 hr 21 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.32 %
-YAML               1 hr 11 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.55 %
-reStructuredText   47 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 %
+TypeScript         3 hrs 28 mins   ███████░░░░░░░░░░░░░░░░░░   28.32 %
+Python             2 hrs 18 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.87 %
+Java               1 hr 22 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.26 %
+reStructuredText   1 hr 15 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.33 %
+YAML               1 hr 13 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.99 %
 ```
 
 <!--END_SECTION:waka-->
