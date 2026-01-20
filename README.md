@@ -14,7 +14,7 @@
 
 ###
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=doomL&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A&column=-1&title=MultiLanguage,Commits,Experience,Repositories" alt="Github Trophy" />
+  <img src="https://github-profile-trophy-three-ecru.vercel.app?username=doomL&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A&column=-1&title=MultiLanguage,Commits,Experience,Repositories" alt="Github Trophy" />
 </a>
 </div>
 
