@@ -84,7 +84,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown      1 hr 40 mins          ███████▓░░░░░░░░░░░░░░░░░   30.29 %
+Python        1 hr 13 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.24 %
+Text          47 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.32 %
+HTML          42 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   12.79 %
+Other         30 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.38 %
 ```
 
 <!--END_SECTION:waka-->
